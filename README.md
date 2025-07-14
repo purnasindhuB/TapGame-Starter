@@ -74,7 +74,6 @@ Add timer-based countdown mode
 
 Add animations for correct/wrong taps
 
-Add sound effects
 
 ## 👨‍💻 Author
 
